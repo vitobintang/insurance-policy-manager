@@ -40,7 +40,7 @@ A web-based insurance policy management system built with React and Supabase. Th
   - @heroicons/react: UI icons
 
 ## Project Structure
-
+```
 insurance-policy-manager/ 
 ├── src/ 
 │ ├── components/ 
@@ -59,7 +59,7 @@ insurance-policy-manager/
 ├── package.json                    # Project dependencies 
 ├── postcss.config.js               # PostCSS configuration 
 └── tailwind.config.js              # Tailwind CSS configuration
-
+```
 
 ## Database Schema
 
